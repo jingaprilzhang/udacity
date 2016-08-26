@@ -1,1 +1,3 @@
-# Daily notes for udacity iOS Developer Nanodegree Classes
+Daily notes for udacity iOS Developer Nanodegree Classes
+
+completionHander
