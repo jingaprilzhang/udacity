@@ -1,5 +1,7 @@
-Daily notes for udacity iOS Developer Nanodegree Classes
+#Daily for Udacity iOS Developer Nanodegree
 
 completionHander
 
 MVC
+
+
