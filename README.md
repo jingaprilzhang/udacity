@@ -1,4 +1,4 @@
-#Daily Notes for Udacity iOS Developer Nanodegree
+# Daily Notes for Udacity iOS Developer Nanodegree
 # Stack Overflow
 
 1 iOS Developer experience > 1 year 
