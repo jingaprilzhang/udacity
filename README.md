@@ -34,17 +34,17 @@ foundation 框架
 iOS基础
 UIKit
 	基础视图
-		UIButton UILabel UITextField
-		UIImageView UIScrollView UIAlertView
+	UIButton UILabel UITextField
+	UIImageView UIScrollView UIAlertView
 	高级视图
-		UITableView UIDataPicker UIPickerView
-		Interface Builder Xib Storyboard
+	UITableView UIDataPicker UIPickerView
+	Interface Builder Xib Storyboard
 	自定义视图
 	
 	多控制器管理
-		UINavigationController 
-		UITabBarController
-		自定义控制器容器			
+	UINavigationController 
+	UITabBarController
+	自定义控制器容器			
 	触摸事件 手势处理 键盘处理
 MVC模式 代理设计模式
 通知机制
